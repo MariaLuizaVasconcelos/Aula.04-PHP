@@ -24,7 +24,7 @@ echo "<h1>Galeria de imagens</h1>";
 echo "<h4>Taylor Swift</h4>";
 echo "<table><tr>";
     for ($x=1; $x<=5; $x++) {
-        echo "<td><img src= 'img/foto", $x, ".jpg'></td>";
+    echo "<td><img src= "https://images.impresa.pt/expresso/2024-06-14-taylor-swift.jpg-e89cd366/3x2/mw-694", $x, ".jpg'></td>";
     }
     echo "</tr></table>";
     echo "<table><tr>";
